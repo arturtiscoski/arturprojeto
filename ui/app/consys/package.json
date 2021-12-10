@@ -1,0 +1,45 @@
+{
+  "_from": "git+ssh://git@bitbucket.org/consystec/consys.git#81def07",
+  "_id": "consys@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/consys",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "consys@git+ssh://git@bitbucket.org/consystec/consys.git#81def07",
+    "name": "consys",
+    "escapedName": "consys",
+    "rawSpec": "git+ssh://git@bitbucket.org/consystec/consys.git#81def07",
+    "saveSpec": "git+ssh://git@bitbucket.org/consystec/consys.git#81def07",
+    "fetchSpec": "ssh://git@bitbucket.org/consystec/consys.git",
+    "gitCommittish": "81def07"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@bitbucket.org/consystec/consys.git#81def07b89ca383deba35bc6369a4b912323248e",
+  "_spec": "consys@git+ssh://git@bitbucket.org/consystec/consys.git#81def07",
+  "_where": "C:\\Projetos\\comercial-nobre-web",
+  "author": {
+    "name": "suporte@consystec.com.br"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  },
+  "deprecated": false,
+  "description": "csy framework utils for react",
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.0.1",
+    "webpack": "^3.5.3"
+  },
+  "license": "ISC",
+  "main": "webpack.config.js",
+  "name": "consys",
+  "scripts": {
+    "build": "bash ./deploy.sh",
+    "start": "webpack"
+  },
+  "version": "1.0.0"
+}

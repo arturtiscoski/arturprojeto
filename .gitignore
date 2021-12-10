@@ -1,0 +1,16 @@
+.idea
+target
+*.iml
+*.ipr
+*.iws
+*.ser
+tmp
+/logs
+sessions
+bower_components
+node_modules
+package-lock.json
+.classpath
+.project
+.settings
+.vscode

@@ -1,0 +1,16 @@
+.menuBackground {
+  background: #f5f5f5;
+}
+
+.menu {
+  background-color: transparent;
+  border-bottom-color: transparent !important;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.ativo,
+.ativo * {
+	background-color: #228ae6;
+	color: #fff;
+}
